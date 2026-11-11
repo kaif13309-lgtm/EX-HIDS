@@ -1,4 +1,4 @@
-# EX-HIDS: Explainable Hybrid Intrusion Detection System.
+# EX-HIDS: Explainable Hybrid Intrusion Detection System
 
 A prototype that combines signature-based and anomaly-based detection and explains every alert.
 
