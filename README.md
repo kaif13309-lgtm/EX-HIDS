@@ -2,7 +2,7 @@
 
 A prototype that combines signature-based and anomaly-based detection and explains every alert.
 
-**Live demo:** `https://Ex-HIDS.github.io/EX-HIDS/`
+**Live demo:** `https://kaif13309-lgtm.github.io/EX-HIDS/`
 
 ## Features
 - Signature engine with 5 named rules
